@@ -1,0 +1,9 @@
+name: SusMeter
+main: com.phdincomputing.SusMeter.Main
+version: 1.0
+api-version: 1.13
+commands: 
+   sus:
+      description: 'Sus'
+      usage: '/sus [user1,user2,...|all] [orename]'
+      
